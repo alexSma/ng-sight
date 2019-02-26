@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    height: 100%;
+    color : white!important;
+}
+
+#navbar p{
+    background: black!important;
+}
+
+#sidebar p{
+    background: rgba(126, 120, 136, 0.993)!important;
+}
+
+#mainContent {
+    background: rgb(216, 215, 215)!important;
+}
+
+#dashboard {
+    background: lightblue;
+}
+
